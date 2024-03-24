@@ -21,18 +21,18 @@ Overall, "base64_image_picker" simplifies the process of selecting, converting, 
 
 ## Example
 
-![Base64 Image Picker](https://github.com/priyanshutaru/base64_image_picker/raw/master/asset/base64_image_picker.gif)
+![](https://github.com/priyanshutaru/base64_image_picker/blob/main/asset/base64_image_picker.gif)
 
 
-## Gettting Started 
+## Getting Started 
 
-To use this pacakge use base64_image_picker as dependency in your pubsec.yml file of your flutter project.
+To use this package use base64_image_picker as a dependency in the pubsec.yml file of your flutter project.
 
 
 ## Usage
 
 TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+to the `/example` folder.
 
 ```dart
 class Base64ImagePickerExample extends StatefulWidget {
