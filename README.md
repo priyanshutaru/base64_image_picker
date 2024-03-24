@@ -21,9 +21,7 @@ Overall, "base64_image_picker" simplifies the process of selecting, converting, 
 
 ## Example
 
-<p>
-<img src="https://github.com/priyanshutaru/base64_image_picker/blob/master/asset/base64_image_picker.gif?raw=true" alt="An animated image of the Base64 Image Picker" height="400"/>
-</p>
+![Base64 Image Picker](https://github.com/priyanshutaru/base64_image_picker/raw/master/asset/base64_image_picker.gif)
 
 
 ## Gettting Started 
